@@ -1,7 +1,7 @@
 # To run app:
 1. Run the following commands:
 ```
-git clone https://github.com/MitchellZH/SportsStandIns.git
+git clone https://github.com/Co-Lab-You-Belong-in-Tech/SportsStandIns.git
 cd SportsStandIns
 npm install
 npx expo start
